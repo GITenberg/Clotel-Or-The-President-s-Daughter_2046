@@ -1,0 +1,51 @@
+_repo: Clotel-Or-The-President-s-Daughter_2046
+creator:
+  author:
+    agent_name: Brown, William Wells
+    aliases:
+    - Brown, Wm. Wells (William Wells)
+    - Brown, W. Wells (William Wells)
+    deathdate: 1884
+    gutenberg_agent_id: '135'
+    url: http://www.gutenberg.org/2009/agents/135
+    wikipedia: http://en.wikipedia.org/wiki/William_Wells_Brown
+description: "Clotel; or, The President's Daughter is an 1853 novel by United States\
+  \ author and playwright William Wells Brown about Clotel and her sister, fictional\
+  \ slave daughters of Thomas Jefferson. Brown, who escaped from slavery in 1834 at\
+  \ the age of 20, published the book in London. He was staying after a lecture tour\
+  \ to evade possible recapture due to the 1850 Fugitive Slave Act. Set in the early\
+  \ nineteenth century, it is considered the first novel published by an African American\
+  \ and is set in the United States. Three additional versions were published through\
+  \ 1867.\nThe novel explores slavery's destructive effects on African-American families,\
+  \ the difficult lives of American mulattoes or mixed-race people, and the \"degraded\
+  \ and immoral condition of the relation of master and slave in the United States\
+  \ of America.\" Featuring an enslaved mixed-race woman named Currer and her daughters\
+  \ Althesa and Clotel, fathered by Thomas Jefferson, it is considered a tragic mulatto\
+  \ story. The women's relatively comfortable lives end after Jefferson's death. They\
+  \ confront many hardships, with the women taking heroic action to preserve their\
+  \ families.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: African American Writers
+gutenberg_issued: '2000-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2046'
+  wikidata: Q3681191
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jefferson, Thomas, 1743-1826 -- Relations with women -- Fiction'
+- !lcsh 'Women slaves -- Fiction'
+- !lcc 'PS'
+- !lcsh 'African American women -- Fiction'
+- !lcsh 'Children of presidents -- Fiction'
+- !lcsh 'African American families -- Fiction'
+- !lcsh 'Illegitimate children -- Fiction'
+- !lcsh 'Domestic fiction'
+title: Clotel; Or, The President's Daughter
+url: http://www.gutenberg.org/ebooks/2046
+wikipedia:
+- https://ar.wikipedia.org/wiki/%D9%83%D9%84%D9%88%D8%AA%D9%8A%D9%84
+- https://en.wikipedia.org/wiki/Clotel
+- https://it.wikipedia.org/wiki/Clotel

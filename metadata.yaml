@@ -1,5 +1,5 @@
 _repo: Clotel-Or-The-President-s-Daughter_2046
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -49,6 +49,7 @@ subjects:
 - !lcsh 'African American families -- Fiction'
 - !lcsh 'Illegitimate children -- Fiction'
 - !lcsh 'Domestic fiction'
+- GITenberg
 title: Clotel; Or, The President's Daughter
 url: http://www.gutenberg.org/ebooks/2046
 wikipedia:
